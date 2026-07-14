@@ -20,4 +20,4 @@ My focuses and **ambtitions** are **to master** Python and JavaScript, so I can 
 
 ### My Projects 👨🏾‍💻
 
-- **[RegEx Text Editor]():** A text editing software built natively on Python.
+- **[RegEx Text Editor](https://github.com/apCoder-fan/regex-text-editor):** A text editing software built natively on Python.
